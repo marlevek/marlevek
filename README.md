@@ -9,7 +9,7 @@
 - 📫 Minhas redes sociais:
 <ul>
   <li><a href=https://www.linkedin.com/in/marlevek/" alt="Linkedin" target="_blank">
-  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"&link=https:www.linkedin.com/in/marlevek//">
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a></li>
 - ⚡ Gosto de pesca esportiva e de músicas dos anos 80.
 
