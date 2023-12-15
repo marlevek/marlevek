@@ -4,7 +4,7 @@
 ### Desejo mudar de uma carreira tipicamente sazonal e braçal para uma mais constante, mais intelectual e que proporcione uma melhor qualidade de vida.
 👋
 
-<!--
+
 **marlevek/marlevek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 Estou fazendo cursos em R, Python, SQL, Machine Learning e de Ciência de Dados e atualmente também estou fazendo graduação em Ciências de Dados na UNOPAR.
@@ -12,4 +12,4 @@
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"&link=https:www.linkedin.com/in/marlevek//">
 </a>
 - ⚡ Gosto de pesca esportiva e de músicas dos anos 80.
--->
+
