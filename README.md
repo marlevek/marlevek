@@ -4,9 +4,8 @@
 ### Desejo mudar de uma carreira tipicamente sazonal e braçal para uma mais constante, mais intelectual e que proporcione uma melhor qualidade de vida.
 👋
 
-
 - 🌱 Estou fazendo cursos em R, Python, SQL, Machine Learning e de Ciência de Dados e atualmente também estou fazendo graduação em Ciências de Dados na UNOPAR.
-- Meu Linkedin:<a href=https://www.linkedin.com/in/marlevek/ alt="Linkedin" target="_blank">
+- Meu Linkedin: <a href='https://www.linkedin.com/in/marlevek/' alt="Linkedin" target="_blank">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
 </a>
 - ⚡ Gosto de pesca esportiva e de músicas dos anos 80.
