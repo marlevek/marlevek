@@ -5,11 +5,11 @@
 👋
 
 
-**marlevek/marlevek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🌱 Estou fazendo cursos em R, Python, SQL, Machine Learning e de Ciência de Dados e atualmente também estou fazendo graduação em Ciências de Dados na UNOPAR.
-- 📫 Minhas redes sociais: <a href=https://www.linkedin.com/in/marlevek/" alt="Linkedin" target="_blank">
+- 📫 Minhas redes sociais:
+<ul>
+  <li><a href=https://www.linkedin.com/in/marlevek/" alt="Linkedin" target="_blank">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"&link=https:www.linkedin.com/in/marlevek//">
-</a>
+</a></li>
 - ⚡ Gosto de pesca esportiva e de músicas dos anos 80.
 
