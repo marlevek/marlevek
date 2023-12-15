@@ -6,10 +6,8 @@
 
 
 - 🌱 Estou fazendo cursos em R, Python, SQL, Machine Learning e de Ciência de Dados e atualmente também estou fazendo graduação em Ciências de Dados na UNOPAR.
-- 📫 Minhas redes sociais:
-<ul>
-  <li><a href=https://www.linkedin.com/in/marlevek/ alt="Linkedin" target="_blank">
+- Meu Linkedin:<a href=https://www.linkedin.com/in/marlevek/ alt="Linkedin" target="_blank">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
-</a></li>
+</a>
 - ⚡ Gosto de pesca esportiva e de músicas dos anos 80.
 
