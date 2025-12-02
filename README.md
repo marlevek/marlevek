@@ -21,8 +21,8 @@ Projetos em IA:
 * <a href="https://dentalbot-ai.codertec.com.br/" target="_blank">DentalBotIA</a>
 * <a href="https://psicoassist.codertec.com.br/" target="_blank">PsicoAssist</a>
 
-## Estatísticas do Github
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marlevek&show_icons=true)
+## Estatísticas do GitHub
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marlevek&show_icons=true)
 
 
 ## Linguagens mais Usadas
