@@ -14,12 +14,13 @@ Atualmente, lidero o desenvolvimento de aplicativos web, sites, dashboards e sol
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 - Curriculo: <a href="https://marlevek.github.io/cv/" target='_blank'> :page_facing_up:</a>
 
-Portfólio / Website da Empresa: 🌐 [(https://www.codertec.com.br/portfolio.html)]
+Portfólio: 🌐 [(https://www.codertec.com.br/portfolio.html)]
 
 Projetos em IA:
 * <a href="https://odontoia.codertec.com.br/" target="_blank">OdontoIA</a>
 * <a href="https://dentalbot-ai.codertec.com.br/" target="_blank">DentalBotIA</a>
 * <a href="https://psicoassist.codertec.com.br/" target="_blank">PsicoAssist</a>
+
 
 * Soluções em Ciência de Dados 📊	Página da Codertec sobre Análise e Dados.	https://www.codertec.com.br/servicos/ciencia-de-dados/
 * Soluções em Automação e IA 💻	Página da Codertec sobre Automação de Processos.	https://www.codertec.com.br/servicos/automacao/
@@ -28,9 +29,13 @@ Projetos em IA:
 
 ## Linguagens mais Usadas
  * Python (Pandas, Scikit-learn, Django),
- * SQL,
+ * SQL,PostgreSQL
  * Dashboards (Power BI/Tableau),
  * Automação Web/RPA,
- * REACT,
+ * REACT.
+ * JS
+ * HTML 5
+ * CSS 3
+
 
  
