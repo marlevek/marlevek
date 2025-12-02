@@ -17,9 +17,9 @@ Atualmente, lidero o desenvolvimento de aplicativos web, sites, dashboards e sol
 Portfólio / Website da Empresa: 🌐 [(https://www.codertec.com.br/portfolio.html)]
 
 Projetos em IA:
-* [(https://odontoia.codertec.com.br/)]
-* [https://dentalbot-ai.codertec.com.br/]
-* [https://psicoassist.codertec.com.br/]
+* <a href="https://odontoia.codertec.com.br/" target="_blank">OdontoIA</a>
+* <a href="https://dentalbot-ai.codertec.com.br/" target="_blank">DentalBotIA</a>
+* <a href="https://psicoassist.codertec.com.br/" target="_blank">PsicoAssist</a>
 
 ## Estatísticas do Github
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marlevek&show_icons=true)
