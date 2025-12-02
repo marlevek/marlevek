@@ -23,7 +23,7 @@ Projetos em IA:
 
 * Soluções em Ciência de Dados 📊	Página da Codertec sobre Análise e Dados.	https://www.codertec.com.br/servicos/ciencia-de-dados/
 * Soluções em Automação e IA 💻	Página da Codertec sobre Automação de Processos.	https://www.codertec.com.br/servicos/automacao/
-* Website da Codertec 🌐	Site principal da sua empresa.	<a href='www.codertec.com.br' target='_blank'></a>
+* Website da Codertec 🌐	<a href='www.codertec.com.br' target='_blank'>Codertec</a>
 
 
 ## Linguagens mais Usadas
