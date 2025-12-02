@@ -21,8 +21,9 @@ Projetos em IA:
 * <a href="https://dentalbot-ai.codertec.com.br/" target="_blank">DentalBotIA</a>
 * <a href="https://psicoassist.codertec.com.br/" target="_blank">PsicoAssist</a>
 
-## Estatísticas do GitHub
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marlevek&show_icons=true)
+* Soluções em Ciência de Dados 📊	Página da Codertec sobre Análise e Dados.	https://www.codertec.com.br/servicos/ciencia-de-dados/
+* Soluções em Automação e IA 💻	Página da Codertec sobre Automação de Processos.	https://www.codertec.com.br/servicos/automacao/
+* Website da Codertec 🌐	Site principal da sua empresa.	<a href='www.codertec.com.br' target='_blank'></a>
 
 
 ## Linguagens mais Usadas
