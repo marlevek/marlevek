@@ -20,7 +20,7 @@ Projetos em IA:
 * <a href="https://odontoia.codertec.com.br/" target="_blank">OdontoIA</a>
 * <a href="https://dentalbot-ai.codertec.com.br/" target="_blank">DentalBotIA</a>
 * <a href="https://psicoassist.codertec.com.br/" target="_blank">PsicoAssist</a>
-
+<br>
 
 * Soluções em Ciência de Dados 📊	Página da Codertec sobre Análise e Dados.	https://www.codertec.com.br/servicos/ciencia-de-dados/
 * Soluções em Automação e IA 💻	Página da Codertec sobre Automação de Processos.	https://www.codertec.com.br/servicos/automacao/
